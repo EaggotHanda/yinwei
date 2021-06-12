@@ -22,7 +22,6 @@ public class BaseApp extends Application {
     public static BaseApp getInstance() {
         return app;
     }
-
     /**
      * 图片加载框架全局配置
      */
